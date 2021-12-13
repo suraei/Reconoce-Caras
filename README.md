@@ -1,5 +1,5 @@
-# Reconoce-Caras
-Reconoce Caras con OpenCV :monocle_face:
+# Reconoce Caras :dango::imp:
+Reconoce Caras con OpenCV 
 
 
 > Crear carpeta "Caras" en el mismo directorio de descarga para que funcione.
@@ -9,7 +9,7 @@ Reconoce Caras con OpenCV :monocle_face:
 
 |Archivo|Descripción|
 |---|---|
-|webcam.py|Prueba para ver que las librerías funcionan| 
-|capturadorcaras.py|Captura las distintas caras y las clasifica|
-|entrenador.py|Crea .xml de las caras que le enseñamos|
-|reconocimiento.py|Prueba final de reconocimiento|
+| :camera:webcam.py|Prueba para ver que las librerías funcionan| 
+|:floppy_disk:capturadorcaras.py|Captura las distintas caras y las clasifica|
+|:minidisc:entrenador.py|Crea .xml de las caras que le enseñamos|
+|:mag:reconocimiento.py|Prueba final de reconocimiento|
